@@ -1,7 +1,10 @@
-# mdn, Mozilla
-- https://github.com/mdn
+## mdn, Mozilla, firefox
 
-- https://github.com/mozilla
+https://github.com/mdn
+
+https://github.com/mozilla
+
+https://www.mozilla.org/ja/firefox/
 
 https://developer.mozilla.org/ja/docs/Web
 
